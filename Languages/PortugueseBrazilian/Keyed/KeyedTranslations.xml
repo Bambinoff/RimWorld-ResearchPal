@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageData>
+
+	<ResearchPal>ResearchPal</ResearchPal>
+
+	<ResearchPal.AllowsBuildingX>Permite construção {0}</ResearchPal.AllowsBuildingX>
+	<ResearchPal.AllowsCraftingX>Permite receita {0}</ResearchPal.AllowsCraftingX>
+	<ResearchPal.AllowsSowingXinY>Permite o plantio {0} in {1}</ResearchPal.AllowsSowingXinY>
+	<ResearchPal.AllowsPlantingX>Permite o crescimento {0}</ResearchPal.AllowsPlantingX>
+
+	<ResearchPal.LClickReplaceQueue>Clique com botão esquerdo do mouse para substituir a fila</ResearchPal.LClickReplaceQueue>
+	<ResearchPal.LClickRemoveFromQueue>Clique com botão esquerdo do mouse para remover da fila</ResearchPal.LClickRemoveFromQueue>
+	<ResearchPal.SLClickAddToQueue>Shift+Clique com botão esquerdo do mouse para adicionar a fila</ResearchPal.SLClickAddToQueue>
+	<ResearchPal.CLClickDebugInstant>(DEBUG) Ctrl+botão esquerdo do mouse para concluir instantaneamente</ResearchPal.CLClickDebugInstant>
+	<ResearchPal.RClickForDetails>Clique com botão direito do mouse para obter detalhes</ResearchPal.RClickForDetails>
+
+	<ResearchPal.Requires>Requer</ResearchPal.Requires>
+	<ResearchPal.LeadsTo>Leva a</ResearchPal.LeadsTo>
+	<ResearchPal.None>none</ResearchPal.None>
+
+	<ResearchPal.QueuedNode>Nó já enfileirado</ResearchPal.QueuedNode>
+	<ResearchPal.MissingFacilities>Falta {0}</ResearchPal.MissingFacilities>
+	<ResearchPal.MissingTechprints>Techprints insuficientes {0}/{1}</ResearchPal.MissingTechprints>
+
+	<ResearchPal.NoResearchFound>nenhuma pesquisa encontrada</ResearchPal.NoResearchFound>
+	<ResearchPal.NothingQueued>nenhuma pesquisa na fila</ResearchPal.NothingQueued>
+	<ResearchPal.NextInQueue>Próximo na fila: {0}</ResearchPal.NextInQueue>
+
+	<ResearchPal.BuildingResearchTree>Construindo Árvore de Pesquisa</ResearchPal.BuildingResearchTree>
+	<ResearchPal.PreparingTree.Setup>Preparando nós de pesquisa</ResearchPal.PreparingTree.Setup>
+	<ResearchPal.PreparingTree.CrossingReduction>Reduzindo cruzamento</ResearchPal.PreparingTree.CrossingReduction>
+	<ResearchPal.PreparingTree.Layout>Finalizando plano</ResearchPal.PreparingTree.Layout>
+	<ResearchPal.PreparingTree.RestoreQueue>Restaurando fila</ResearchPal.PreparingTree.RestoreQueue>
+
+	<ResearchPal.ShowNotificationPopup>Mostrar pop-up de notificação</ResearchPal.ShowNotificationPopup>
+	<ResearchPal.ShowNotificationPopupTip>Sempre que terminar de pesquisar, faça uma pausa e mostre a notificação padrão.</ResearchPal.ShowNotificationPopupTip>
+	<ResearchPal.ShouldSeparateByTechLevels>Grupo de pesquisas por nível técnico</ResearchPal.ShouldSeparateByTechLevels>
+	<ResearchPal.ShouldSeparateByTechLevelsTip>Caso contrário, use um plano mais denso (REQUER REINICIAR)</ResearchPal.ShouldSeparateByTechLevelsTip>
+	<ResearchPal.ShouldPauseOnOpen>Pause a tela</ResearchPal.ShouldPauseOnOpen>
+	<ResearchPal.ShouldPauseOnOpenTip>O jogo sempre deve pausar quando a guia de pesquisa for exibida.</ResearchPal.ShouldPauseOnOpenTip>
+	<ResearchPal.ShouldResetOnOpen>Reiniciar na tela</ResearchPal.ShouldResetOnOpen>
+	<ResearchPal.ShouldResetOnOpenTip>Limpe a filtragem e redefina a posição de rolagem.</ResearchPal.ShouldResetOnOpenTip>
+    
+	<ResearchPal.NeedsRestart>Configurações de pesquisa alteradas, reinicie o RimWorld para aplicar a alteração.</ResearchPal.NeedsRestart>
+	<ResearchPal.ResearchFinished>Pesquisa terminada: {0}</ResearchPal.ResearchFinished>
+</LanguageData>
